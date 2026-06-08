@@ -17,7 +17,7 @@
 
 ## About me
 
-I'm a 2nd-year B.Tech (CS, AI & ML) student at Atlas SkillTech University, Mumbai with a **9.5 CGPA** and a co-authored research paper published at **ICICC 2025**.
+I'm a 3rd year B.Tech (CS, AI & ML) student at Atlas SkillTech University, Mumbai with a **9.5 CGPA** and a co-authored research paper published at **ICICC 2025**.
 
 I build things that sit at the intersection of real-world problems and AI - RAG pipelines on AWS, LLM agents, OCR-driven healthcare systems, and ML models trained on scientific datasets. I care less about following tutorials and more about shipping systems that actually work end-to-end.
 
@@ -123,23 +123,19 @@ Co-Author & Presenter · ICICC 2025
 
 ## GitHub stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hkv-31&show_icons=true&theme=dark&hide_border=true&title_color=1D9E75&icon_color=5DCAA5&text_color=B4B2A9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hkv-31&show_icons=true&theme=default&hide_border=true&title_color=1D9E75&icon_color=185FA5&text_color=444441" />
-  <img alt="Hetanshi's GitHub Stats" />
-</picture>
+<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hkv-31&layout=compact&theme=dark&hide_border=true&title_color=1D9E75&text_color=B4B2A9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hkv-31&layout=compact&theme=default&hide_border=true&title_color=1D9E75&text_color=444441" />
-  <img alt="Top Languages" />
-</picture>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hkv-31&theme=default&hide_border=true&ring=1D9E75&fire=185FA5&currStreakLabel=1D9E75)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hkv-31&theme=default)
+
+</div>
 
 ---
 
 ## Let's connect
 
-If you're building something at the intersection of AI and real-world access - healthcare, legal, education, accessibility - Let's discuss more over coffee.
+If you're building something at the intersection of AI and real-world access - Let's discuss more over coffee.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-185FA5?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/hetanshi-vora-student)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-1D9E75?style=flat-square&logo=vercel&logoColor=white)](https://hetanshivora.vercel.app)
