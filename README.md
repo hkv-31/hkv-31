@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:185FA5&height=160&section=header&text=Hetanshi%20Vora&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20LLM%20Systems%20%7C%20Mumbai&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4B5FD,100:818CF8&height=160&section=header&text=Hetanshi%20Vora&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Mumbai&descAlignY=58&descSize=16" />
 
 </div>
 
@@ -143,6 +143,6 @@ If you're building something at the intersection of AI and real-world access - L
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,100:1D9E75&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:818CF8,100:C4B5FD&height=100&section=footer" />
 
 </div>
